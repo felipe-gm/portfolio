@@ -9,13 +9,16 @@ Separados por domínio de cohecimento ofereço jupyter notebooks. Cada notebook 
 
 ### [Física computacional](https://github.com/felipe-gm/portfolio/tree/master/fisica_computacional)
 Desde estatística descritiva até métodos de monte-carlo. Vamos estudar como colher o máximo de informação a partir dos nossos 'a priori'.
-
 ```python
 # TODOC: Do README
 ```
 
 #### [Os erros de Euler e Runge-Kutta](https://github.com/felipe-gm/portfolio/blob/master/fisica_computacional/erros_euler_rk.ipynb)
 Sabemos que cálculos numéricos implicam em erros nos resultados, mas são relevantes estes erros? Estudamos dois casos neste notebook.
+```python
+# RFE: Comentar mais
+```
 
-## Contato
+## Links
+[e-mail](mailto:felipe.miyazato@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/felipe-miyazato-8423ba116/)
